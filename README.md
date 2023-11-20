@@ -7,13 +7,13 @@
 
 - ⚡ Fun fact **I love something new**
 
-</div>
-
-![NOOBNUBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBNUBY&show_icons=true&theme=dark)
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBNUBY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/noobnuby)](https://solved.ac/profile/noobnuby)
-
 <div align="center">
+  
+[![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/noobnuby)](https://solved.ac/profile/noobnuby)
+[![NOOBNUBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBNUBY&show_icons=true&theme=dark)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBNUBY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!--START_SECTION:waka-->
 
