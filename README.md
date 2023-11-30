@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2022 - To: 28 November 2023
+From: 03 October 2022 - To: 29 November 2023
 
-Kotlin              77 hrs 40 mins  ███████▒░░░░░░░░░░░░░░░░░   28.98 %
-Python              64 hrs 27 mins  ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-Java                35 hrs 15 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-JavaScript          23 hrs 13 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-CSS                 18 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Kotlin              77 hrs 40 mins  ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+Python              64 hrs 27 mins  ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+Java                35 hrs 15 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+JavaScript          23 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+CSS                 18 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
 ```
 
 <!--END_SECTION:waka-->
