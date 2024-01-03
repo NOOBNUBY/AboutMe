@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2022 - To: 01 January 2024
+From: 03 October 2022 - To: 02 January 2024
 
 Kotlin              95 hrs 39 mins  ████████░░░░░░░░░░░░░░░░░   31.63 %
 Python              65 hrs 24 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
