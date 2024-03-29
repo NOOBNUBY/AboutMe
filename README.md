@@ -16,6 +16,7 @@
 <div align="center">
 
 ![NOOBNUBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBNUBY&show_icons=true&theme=dark)
+[![Discord Presence](https://lanyard.cnrad.dev/api/878092667156856882?showDisplayName=true)](https://discord.com/users/878092667156856882)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBNUBY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
