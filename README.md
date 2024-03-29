@@ -15,7 +15,9 @@
 <div>
 
 <div align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/878092667156856882?showDisplayName=true)](https://discord.com/users/878092667156856882)
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/878092667156856882?showDisplayName=true)](https://discord.com/users/878092667156856882)
+
 <div>
 
 <div align="center">
